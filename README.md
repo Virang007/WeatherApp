@@ -4,7 +4,7 @@ A new Flutter project.
 #loading Page
 
 
-![Phone Screenshot 1](https://github.com/Virang007/WeatherApp/assets/104147123/3a65a959-e07e-4e2b-8e08-c7def50a7efb)![Phone Screenshot 2](https://github.com/Virang007/WeatherApp/assets/104147123/9a890aca-96ec-4310-a66c-528001a4f52e)
+![Phone Screenshot 1](https://github.com/Virang007/WeatherApp/assets/104147123/3a65a959-e07e-4e2b-8e08-c7def50a7efb?height=500)![Phone Screenshot 2](https://github.com/Virang007/WeatherApp/assets/104147123/9a890aca-96ec-4310-a66c-528001a4f52e)
 
 
 ## Getting Started
