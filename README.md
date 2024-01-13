@@ -3,9 +3,7 @@
 A new Flutter project.
 #loading Page
 
-![1704187076565-portrait (1)](https://github.com/Virang007/WeatherApp/assets/104147123/24027500-8eb7-4b1f-8c17-988cb5d7d926) 
-
-![1704187076583-portrait (1)](https://github.com/Virang007/WeatherApp/assets/104147123/41975306-5414-44f4-b226-df8e273a4e8b)
+![1704187076565-portrait (1)](https://github.com/Virang007/WeatherApp/assets/104147123/24027500-8eb7-4b1f-8c17-988cb5d7d926)![1704187076583-portrait (1)](https://github.com/Virang007/WeatherApp/assets/104147123/41975306-5414-44f4-b226-df8e273a4e8b)
 
 
 
