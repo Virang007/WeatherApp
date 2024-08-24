@@ -1,21 +1,24 @@
-## WeatherApp Flutter
+# WeatherApp in Flutter
 
-A new Flutter project.
-#loading Page
+A new Flutter project for a weather application. This app provides weather updates and forecasts.
 
-![1704187076565-portrait (1)](https://github.com/Virang007/WeatherApp/assets/104147123/24027500-8eb7-4b1f-8c17-988cb5d7d926)![1704187076583-portrait (1)](https://github.com/Virang007/WeatherApp/assets/104147123/41975306-5414-44f4-b226-df8e273a4e8b)
+## Screenshots
 
+Here are some screenshots of the WeatherApp:
 
+### Loading Page
+
+<img src="https://github.com/Virang007/WeatherApp/assets/104147123/24027500-8eb7-4b1f-8c17-988cb5d7d926" alt="WeatherApp Loading Page 1" width="300" />
+
+<img src="https://github.com/Virang007/WeatherApp/assets/104147123/41975306-5414-44f4-b226-df8e273a4e8b" alt="WeatherApp Loading Page 2" width="300" />
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. To get started, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Install Flutter:**
+   Follow the [installation guide](https://docs.flutter.dev/get-started/install) to set up Flutter on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Virang007/WeatherApp.git
